@@ -9,7 +9,7 @@ I am a Web Programmer.
 - 🔭 I'm working as a Software Engineer and contributing to frontend and backend for building web apps / Telegram Bots.
 - 🌱 Currently, I'm constantly studying new modern technologies and sharing my experience in the blog section of my personal website — https://ncode.dev
 - ⚡ In my free time, I learn new technologies, or write articles for my website, or devote time to creating commercial projects.
-- 📫 How to contact me: &nbsp; [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/vodivn)
+- 📫 How to contact me: &nbsp; [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/voidvn)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
