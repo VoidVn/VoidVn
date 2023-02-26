@@ -9,8 +9,7 @@ I am a Web Programmer.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Currently, I am constantly studying new modern technologies and sharing my experience on my personal website — https://ncode.dev
 - ⚡ In my free time, I learn new technologies, or write articles for my website, or devote time to creating commercial projects.
-- 📫 How to contact me: &nbsp; [![Telegram](![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black))](https://t.me/vodivn)
-
+- 📫 How to contact me: &nbsp; [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/vodivn)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
