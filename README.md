@@ -17,8 +17,7 @@ I am a Web Programmer.
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/64450473?v=4" title="Filament" alt="Filament" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/phalcon/phalcon-original.svg" title="Phalcon" alt="Phalcon" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/64450473?v=4" title="Filament" alt="Filament" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/php-telegram-bot/assets/master/logo/512px/logo_plain.png" title="TelegramBot" alt="TelegramBot" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/5/51/1c_bitrix_logo.svg/1024px-1c_bitrix_logo.svg.png" title="Bitrix" alt="Bitrix" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain-wordmark.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
