@@ -42,6 +42,7 @@ I am a Web Programmer.
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" title="Swagger" alt="Swagger" />&nbsp;
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx" alt="Nginx" />&nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker" />&nbsp;
+<img src="https://img.shields.io/badge/CI/CD-330F63?style=for-the-badge&logo=loop&logoColor=white" title="CI/CD" alt="CI/CD" />&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux" />&nbsp;
 <img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white" title="Deepin" alt="Deepin" />&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu" />&nbsp;
