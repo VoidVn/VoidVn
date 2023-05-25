@@ -18,11 +18,10 @@ I am a Web Programmer.
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Php" alt="Php"/>&nbsp;
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel" alt="Laravel"/>&nbsp;
 <img src="https://img.shields.io/badge/Filament-f59e0b?style=for-the-badge&logo=laravel&logoColor=white" title="Filament" alt="Filament"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Telegram Bot API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="TelegramBot" alt="TelegramBot"/>&nbsp;
+<img src="https://img.shields.io/badge/Telegram Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="TelegramBot" alt="TelegramBot"/>&nbsp;
 <img src="https://img.shields.io/badge/Bitrix-c60c30?style=for-the-badge&logo=bitrix&logoColor=white" title="Bitrix" alt="Bitrix" />&nbsp;
 <img src="https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="PhpStorm" alt="PhpStorm" />&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vue.js" alt="Vue.js" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp;
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwindcss" alt="Tailwindcss" />&nbsp;
